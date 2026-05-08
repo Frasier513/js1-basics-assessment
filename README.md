@@ -1,2 +1,18 @@
-# js1-basics-assessment
-JavaScript Basics Assessment 1 - Part of Full Stack Software Development course at Great Learning
+# JavaScript Basics Assessment 1
+
+## 📚 Course
+Full Stack Software Development: Building Scalable Cloud Applications  
+Great Learning — May 2025 Cohort
+
+## 📝 About
+This project covers fundamental JavaScript concepts including variables, data types, functions, loops, and conditionals.
+
+## 🛠️ Technologies
+- JavaScript (ES5)
+- HTML5
+
+## ✅ Score
+60/60
+
+## 📁 Files
+Upload the source code zip from your Great Learning course materials.
