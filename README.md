@@ -15,4 +15,4 @@ This project covers fundamental JavaScript concepts including variables, data ty
 60/60
 
 ## 📁 Files
-Upload the source code zip from your Great Learning course materials.
+Upload the source code zip! 
